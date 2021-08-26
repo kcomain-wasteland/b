@@ -5,7 +5,7 @@ keywords: null
 author: Sophie
 language: en
 timezone: Asia/Hong_Kong
-url: http://kcomain.github.io/b/
+url: http://kcomain.github.io/
 permalink: ':year-:month/:title/'
 permalink_defaults: null
 pretty_urls:
