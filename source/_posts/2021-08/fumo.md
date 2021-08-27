@@ -1,6 +1,7 @@
 ---
 title: fumo
 date: 2021-08-27 14:18:09
+updated: 2021-08-27 14:37:37
 tags:
 - Touhou Project
 - Fumo

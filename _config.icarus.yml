@@ -104,9 +104,9 @@ navbar:
     # Navigation menu items
     menu:
         Home: /
-        Archives: /archives
+        About: /about
+        Archive: /archives
         Categories: /categories
-        Tags: /tags
     # Links to be shown on the right of the navigation bar
     # links:
     #     Words:
