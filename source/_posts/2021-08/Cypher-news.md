@@ -3,7 +3,7 @@ title: Cypher news
 categories: News
 date: 2020-04-01 00:00:00
 updated: 2021-08-27 14:59:59
-tags:
+tags: Cypher
 ---
 <!-- Append new updates just below this block, new updates goes first
 
