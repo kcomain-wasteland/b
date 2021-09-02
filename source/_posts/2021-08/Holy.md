@@ -1,5 +1,5 @@
 ---
-title: Holy shit
+title: Holy
 date: 2021-08-27 18:02:25
 updated: 2021-08-27 18:02:25
 tags: 
