@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/kcomain
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://b.kcomain.dev
+  * I am kcomain (https://keybase.io/kcomain) on keybase.
+  * I have a public key with fingerprint 7BAD C9C6 59B0 24D8 F0AC  64F3 DB9B EC3A 93B4 B1DF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "011633fdb1b619999f0a22a9c2100593ed2bcc94868bf3e7d84a99ebb56c8e2de8c80a",
+      "fingerprint": "7badc9c659b024d8f0ac64f3db9bec3a93b4b1df",
+      "host": "keybase.io",
+      "key_id": "db9bec3a93b4b1df",
+      "kid": "011633fdb1b619999f0a22a9c2100593ed2bcc94868bf3e7d84a99ebb56c8e2de8c80a",
+      "uid": "dd388ad8045991a3cb19e39de74f9319",
+      "username": "kcomain"
+    },
+    "service": {
+      "hostname": "b.kcomain.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1630933549,
+  "expire_in": 157680000,
+  "prev": "87424b3ec8e9a39b83ea05b41db46efd3b922a6e420d2edd2014c38803ca0c82",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owJ4nK1Sv2sUQRjd5M4iB6KkOA3hQAdEgscxv3Zv5vIfKFYBQUSW+fHtZUmye9nd
+u3iGNFE0jSCktxCxVkRQLIRUEW3SWYqIqLUgCIoz8dJZOs0w37z3vvc+vvvHa0Gj
++XDn9/UPuwu/pt5+1YGKZskm0rkdo94mWoHDC1YtlFW8klrUQ5iQiLHEaqIjIt1J
+sKJUSUMJxqFkYKk2RnIRCZ0w6FrBlZSgdRgZAdSCMAIr1EZJmvWhGBRpVjnZrlbW
+SBOFUmPKrXCqJuIJs1pqMExJprkmNnHE5bz0DGdOqxI6ae5q7hEf2vsH/j/7Hv7t
+Y5kQygrMQymJYkYTCUxa6PJEMiI9sIQiU2vgvZp8TaUZ2mojVxylBvxcfZAJQHcm
+kI6FkeMOirzKTb7qvparalD2PLUaDzx2A3Q8UYl1mlk3R8cYQVGmeYZ6xCFNlXpZ
+lxhLxkIu2whuDNIC4tQjwm4ksDu+j2vXQ6LLKdfsKrioUjGpBQOFQ82J1TyCxDIt
+3bAi4BRbCtZSTLhxE8DMKGwERT7YepY7ce6Mqr4TLdN+pqphAWirsTOsB81G0Gqe
+rZO9xqsHJ+jBi9an/aPdOzbtFy9ozJw8qvy4MhW8ezw3Prhwd6l+Z+nz9t7lWu3U
+vjz36NJw5k17/szNe+vBz+mnrWe3b738tr24iE5vzD//ePFJjOTutfdfZs9/X3hd
++wMiLOsi
+=EOZ+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kcomain
+
+==================================================================
+
