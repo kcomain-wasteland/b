@@ -1,7 +1,7 @@
 ---
-title: General url change
+title: Domain change
 date: 2021-11-29 23:58:25
-updated: 2021-11-29 23:58:25
+updated: 2021-11-30 00:24:00
 tags:
 categories: Text-only
 ---
