@@ -213,16 +213,16 @@ widgets:
         # Author's current location
         location: Earth
         # URL or path to the avatar image
-        avatar: https://github.com/kcomain.png
+        avatar: https://github.com/soopyc.png
         # Whether show the rounded avatar image
         avatar_rounded: true
         # URL or path for the follow button
-        follow_link: #'https://github.com/kcomain'
+        follow_link: #'https://github.com/soopyc'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: 'https://github.com/kcomain'
+                url: 'https://github.com/soopyc'
             Twitter:
                 icon: fab fa-twitter
                 url: 'https://twitter.com/kcomain1'
@@ -244,7 +244,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Home page: 'https://kcomain.dev'
+            Home page: 'https://soopy.moe'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
