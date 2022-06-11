@@ -1,7 +1,7 @@
 ---
 title: osu rambling
 date: 2021-09-09 00:38:53
-updated: 2021-09-09 00:38:53
+updated: 2022-06-11 18:42:00
 tags:
 - Games
 categories: Image
