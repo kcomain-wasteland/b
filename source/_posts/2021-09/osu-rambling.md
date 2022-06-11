@@ -6,9 +6,12 @@ tags:
 - Games
 categories: Image
 ---
+![](driver-config.png)
+
+# Old configs
 
 my current driver config
-![](driver-config.png)
+![](driver-config-old.png)
 
 when the pain
 ![](score.png)
