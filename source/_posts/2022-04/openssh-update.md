@@ -1,7 +1,7 @@
 ---
 title: openssh update
 date: 2022-04-21 17:30:28
-updated: 2022-04-21 17:30:28
+updated: 2022-11-03 15:42:55
 tags:
 - Linux
 - OpenSSH
@@ -27,6 +27,10 @@ Solution[^1]:
 # /etc/ssh/sshd_config
 + KexAlgorithms -sntrup761x25519-sha512@openssh.com
 ```
+
+It's worth noting that this config only applies to sshd. If you're a client trying
+to connect to a remote server that doesn't have this, it will not work. I'm not sure
+if this is patched yet.
 
 [^1]: https://bugs.archlinux.org/task/74423
 [^2]: https://lwn.net/Articles/890803/
