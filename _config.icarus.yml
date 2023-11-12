@@ -193,7 +193,7 @@ sidebar:
     # Left sidebar configurations
     left:
         # Whether the sidebar sticks to the top when page scrolls
-        sticky: true
+        sticky: false
     # Right sidebar configurations
     right:
         # Whether the sidebar sticks to the top when page scrolls
@@ -207,7 +207,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Sophie
+        author: Cassie Cheung
         # Author title
         author_title: certified idiot
         # Author's current location
@@ -223,13 +223,10 @@ widgets:
             Github:
                 icon: fab fa-github
                 url: 'https://github.com/soopyc'
-            Twitter:
-                icon: fab fa-twitter
-                url: 'https://twitter.com/kcomain1'
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: toc
         # Whether to show the index of each heading
         index: true
